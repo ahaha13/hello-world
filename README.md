@@ -1,2 +1,4 @@
 # hello-world
-first repository
+It Joanna here!
+
+Learing to use Github
